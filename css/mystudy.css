@@ -1,0 +1,22 @@
+body{
+    background-color: #99627A;
+}
+@font-face {
+    font-family: Cece;
+    src: url('fontcu.otf');
+}
+h3{
+    text-align: center;
+    font-family: Cece;
+    font-size: 30pt;
+    color:#643843;
+    text-shadow: 2px 2px 5px black;
+
+}
+tr.caca{
+    background-color: #643843;
+}
+td{
+    text-align:center;
+    font-weight: bold;
+}

@@ -1,0 +1,13 @@
+body{
+    background-color: #643843;
+}
+@font-face {
+    font-family: Panaroma;
+    src:url('Blackart.ttf')
+}
+marquee{
+    font-family: Panaroma;
+    font-size: 30pt;
+    color:#E893CF;
+    text-shadow: 2px 2px 5px whitesmoke;
+}

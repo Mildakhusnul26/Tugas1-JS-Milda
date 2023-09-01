@@ -1,0 +1,12 @@
+body{
+    background-color: #643843;
+}
+@font-face {
+    font-family: Panaroma;
+    src:url('Blackart.ttf')
+}
+center{
+    font-family: Panaroma;
+    font-size: 30pt;
+    color:#E893CF;
+}
